@@ -1,0 +1,42 @@
+[*] GTKWave save file for Multicycle_Processor_tb
+[dumpfile] "Multicycle_Processor_tb.vcd"
+[timestart] 0
+@28
+Multicycle_Processor_tb.CLK
+Multicycle_Processor_tb.reset
+@24
+Multicycle_Processor_tb.dut.cu.state[3:0]
+@22
+Multicycle_Processor_tb.dut.dp.PC[63:0]
+Multicycle_Processor_tb.dut.dp.Instr[63:0]
+@24
+Multicycle_Processor_tb.dut.dp.opcode[11:0]
+@200
+-Control
+@28
+Multicycle_Processor_tb.dut.cu.IRwrite
+Multicycle_Processor_tb.dut.cu.PC_Enable
+Multicycle_Processor_tb.dut.cu.IorD
+Multicycle_Processor_tb.dut.cu.AluSrcA
+Multicycle_Processor_tb.dut.cu.ALUSrcB[1:0]
+Multicycle_Processor_tb.dut.cu.ALUControl
+Multicycle_Processor_tb.dut.cu.PCSrc
+Multicycle_Processor_tb.dut.cu.Branch
+Multicycle_Processor_tb.dut.cu.zero
+Multicycle_Processor_tb.dut.cu.RegWrite
+Multicycle_Processor_tb.dut.cu.RegDst
+Multicycle_Processor_tb.dut.cu.MemtoReg
+Multicycle_Processor_tb.dut.cu.MemWrite
+@200
+-Datapath
+@24
+Multicycle_Processor_tb.dut.dp.Addr[63:0]
+Multicycle_Processor_tb.dut.dp.A[63:0]
+Multicycle_Processor_tb.dut.dp.B[63:0]
+Multicycle_Processor_tb.dut.dp.SrcA[63:0]
+Multicycle_Processor_tb.dut.dp.SrcB[63:0]
+Multicycle_Processor_tb.dut.dp.ALUResult[63:0]
+Multicycle_Processor_tb.dut.dp.ALUOut[63:0]
+Multicycle_Processor_tb.dut.dp.Data[63:0]
+Multicycle_Processor_tb.dut.dp.A3[9:0]
+Multicycle_Processor_tb.dut.dp.WD[63:0]

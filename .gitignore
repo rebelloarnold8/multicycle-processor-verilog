@@ -1,0 +1,14 @@
+# Quartus build output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.rpt
+serv_req_info.txt
+# editor backups
+*.bak
+# simulation output
+*.vcd
+*.vvp
+.DS_Store
